@@ -1,0 +1,13 @@
+{
+  "name": "bby-cli",
+  "version": "0.2.1",
+  "description": "Baers-Bot Cli for faster bot development based on this handler architecture",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "author": "Daniel Baer",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
