@@ -1,15 +1,15 @@
-##Bears Bot Cli
+## Bears Bot Cli
 
 This Cli is a working process.
 
-##How to install
+## How to install
 
 Use `npm install bby-cli -g` for a global installation, afterwards you can access the cli directly in your shell with e.g. `bby-cli -h`
 
 You can use `-h | --help` to see supported commands.
 
 
-##Commands
+## Commands
 
 ```
 Options:
@@ -46,14 +46,14 @@ Commands:
 ```
 
 
-##What is this Cli for?
+## What is this Cli for?
 
 * Bot project initialization.
 * adding standard Services
 * adding new skill-handlers
 
 
-##Changelog
+## Changelog
 `V.0.2.1` - removed frontend stuff
 
 `V.0.2.0` - updated bot systems
